@@ -4,7 +4,7 @@ Teste prático para vaga de desenvolvedor full stack
 
 prática no desenvolvimento de funcionalidades alinhadas ao ambiente educacional da Repertório, com foco em criar soluções para melhorar a experiência dos alunos com conteúdos do Enem.
 
-**URL**:
+**URL Deploy - Vercel**: https://assistente-de-escrita-jl952c536-marques-projects-32faa885.vercel.app/
 
 Se quiser trabalhar localmente usando seu próprio IDE, você pode clonar este repositório e enviar alterações.
 
