@@ -29,20 +29,6 @@ npm run dev
 npm test
 ```
 
-**Edite um arquivo diretamente no GitHub**
-
-- Navegue até o(s) arquivo(s) desejado(s).
-- Clique no botão "Editar" (ícone de lápis) no canto superior direito da visualização do arquivo.
-- Faça suas alterações e confirme as alterações.
-
-**Use espaços de código do GitHub**
-
-- Navegue até a página principal do seu repositório.
-- Clique no botão "Código" (botão verde) próximo ao canto superior direito.
-- Selecione a aba "Codespaces".
-- Clique em "Novo codespace" para iniciar um novo ambiente Codespace.
-- Edite arquivos diretamente no Codespace e confirme e envie suas alterações quando terminar.
-
 ## What technologies are used for this project?
 
 This project is built with .
