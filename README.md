@@ -10,6 +10,10 @@ Se quiser trabalhar localmente usando seu próprio IDE, você pode clonar este r
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
+
+![image](https://github.com/user-attachments/assets/645edbd8-38bf-47c6-8259-a4feca041361)
+
+
 Follow these steps:
 
 ```sh
